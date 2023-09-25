@@ -1,6 +1,6 @@
 ### Book Catalog Assignment
 
-##Live Site Link: https://assignment-8-book-catalog.vercel.app/api/v1/
+##Live Site Link: https://assignment-8-book-catalog.vercel.app/
 
 ##Code Documentation Link 
 
